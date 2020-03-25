@@ -1,0 +1,1 @@
+this weather forecasting app uses darkskyAPI it is totally made in vanilla JS
